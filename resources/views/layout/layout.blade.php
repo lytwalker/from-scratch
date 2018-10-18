@@ -75,8 +75,8 @@
                 <div class="links">
                     <a href="/">Home</a>
                     <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
                     <a href="https://nova.laravel.com">Nova</a>
+                    <a href="/extra">Extra</a>
                     <a href="/about">About</a>
                     <a href="/contact">Contact</a>
                 </div>
